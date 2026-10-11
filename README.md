@@ -92,3 +92,10 @@ of the captured `.pcap` files is done later, offline, on hardware you control.
 Built and documented by **Shivam Verma (cyb3r_n3rd)** —
 [portfolio](https://cyb3r-n3rd.github.io/portfolio/) ·
 [LinkedIn](https://www.linkedin.com/in/shivamvermacyber)
+
+
+## Demo & links
+
+- Demo video: [Pwnagotchi build on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7089827806108393472/)
+- Project entry: [LinkedIn projects](https://www.linkedin.com/in/shivamvermacyber/details/projects/)
+- Portfolio: [cyb3r-n3rd.github.io/portfolio](https://cyb3r-n3rd.github.io/portfolio/)
